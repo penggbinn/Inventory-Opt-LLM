@@ -6,8 +6,20 @@
 - Finally, I analyse these answers and verify if they are accurate and similar.
 
 ## Structure
-
+- The questions can be found in the [Questions.md](Questions.md) file
+- The folders contain the answers provided by every model along with the python codes used to generate the network images.
 
 ## Results
-  ### BARD
-  - 
+ Detailed results can be found in the [Results.md](Results.md) file
+
+### GPT-3.5 Bayesian Network
+![BN](GPT3.5/network.png)
+
+### GPT-3.5 Dependency Graph
+![D](GPT3.5/dependencies.png)
+
+### BARD Bayesian Network
+![BN](BARD/network.png)
+
+### BARD Dependency Graph
+![D](BARD/dependencyGraph.png)
