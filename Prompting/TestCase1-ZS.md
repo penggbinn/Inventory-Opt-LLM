@@ -11,9 +11,8 @@ Assume the following conditions:
 - current inventory is high 
 - safety stock is low
 
-Will the company experience over-stocking, under-stocking or stock-out?
+Will the company experience over-stocking, under-stocking or stock-out? Provide the most probable answer.
 
 ## Expected Answer
 - A mix of over-stocking and stock-out with over-stocking being the most probable outcome.
-
 
